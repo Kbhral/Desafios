@@ -21,7 +21,6 @@ class Hero {
           ataque = 'atacou';
       }
 
-        
       console.log(`o ${this.tipo} atacou usando ${ataque}`);
     }
   }
