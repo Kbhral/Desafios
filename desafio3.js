@@ -5,6 +5,7 @@ class Hero {
       this.tipo = tipo;
     }
   
+    
     atacar() {
       let ataque;
       switch (this.tipo) {
