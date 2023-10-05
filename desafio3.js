@@ -20,7 +20,8 @@ class Hero {
         default:
           ataque = 'atacou';
       }
-  
+
+        
       console.log(`o ${this.tipo} atacou usando ${ataque}`);
     }
   }
